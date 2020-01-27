@@ -1,18 +1,18 @@
 # phpcalculator
 # instructions to run 
 
-######go to the cloned directory phpcalculator
+# go to the cloned directory phpcalculator
 
-# docker build -t phpcal .
+##### docker build -t phpcal .
 
-#####to run the built images
+# to run the built images
 
-# docker run -d -p 8080:80 phpcal
+##### docker run -d -p 8080:80 phpcal
 
-#### to check wether the image is running do
+# to check wether the image is running do
 
-# docker ps
+##### docker ps
 
-##### go to the browser and type the below url
+# go to the browser and type the below url
 
-#localhost:8080
+##### localhost:8080
